@@ -11,7 +11,7 @@ const SlotM = (props) => {
               {props.y}
               {props.z}
             </h1>
-            <h1>This is Matching</h1>
+            <h1>YOU WON!🎉</h1>
             <hr />
           </div>
         </>
@@ -25,7 +25,7 @@ const SlotM = (props) => {
               {props.y}
               {props.z}
             </h1>
-            <h1>This is not Matching</h1>
+            <h5> TRY AGAIN </h5>
             <hr />
           </div>
         </>
